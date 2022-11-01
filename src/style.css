@@ -1,1 +1,17 @@
 /* styles go here */
+.fieldset_group {
+  margin-bottom: 20px;
+}
+
+.input {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.inputCats {
+  margin-bottom: 10px;
+}
+
+.input:last-child {
+  margin-bottom: 0;
+}
